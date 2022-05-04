@@ -49,12 +49,8 @@
 }
 
 body {
-  display: grid;
-  place-items: center;
-  gap: 1em;
   min-height: 100vh;
   width: 100vw;
-  padding: 2em;
   overflow-x: hidden;
 
   font-size: 22px;
